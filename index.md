@@ -1,35 +1,30 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Unboxed developer Playbook
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Overview
 
-More specifically, the created site:
+The Developer Playbook is designed to assist developers with onboarding, accessing useful resources, and serving as a guide for best practices. It aims to facilitate efficient and consistent development processes within our team. This playbook covers a range of topics essential for both new and existing developers, ensuring everyone has the knowledge and tools needed for their projects.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Topics Covered
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+The playbook is structured into several key sections, each focusing on different aspects of the development process:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **Onboarding**: Quick start guide for new developers, including setup instructions, introduction to team practices, and essential tools.
+- **Getting Set Up**: Detailed setup guides for our development environment, including required software, code editors, and configuration tips.
+- **Mentoring**: Guidelines for both mentors and mentees to make the most out of mentoring relationships within the team.
+- **Developer Resources**: A curated list of resources, including documentation, coding standards, libraries, tools that our team frequently uses and knowledege transfer videos about key topics.
+- **Developer Principles**: Core principles, development culture at Unboxed and best practices that our team follows for writing clean, maintainable, and well tested code.
+- **Our Work**: Overview of our current and past work and where you can find futher information.
 
-To get started with creating a site, simply:
+## Contributing
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+We welcome contributions from team members to the Developer Playbook. Whether it's adding new resources, refining existing guidelines, or fixing typos, your input helps make this playbook better for everyone.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Feedback
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+For any feedback or questions regarding the Developer Playbook, please open an issue in the repository or post a message in the **#dev** Slack channel.
