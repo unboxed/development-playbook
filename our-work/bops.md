@@ -16,8 +16,8 @@ The Back Office Planning System (BoPS) is a user centered application system for
 
 **Github:**
 
-[https://github.com/unboxed/bops](https://github.com/unboxed/bops "smartCard-inline")
+[BOPS](https://github.com/unboxed/bops "smartCard-inline")
 
-[https://github.com/unboxed/bops-applicants](https://github.com/unboxed/bops-applicants "smartCard-inline")
+[BOPS applicants](https://github.com/unboxed/bops-applicants "smartCard-inline")
 
-[https://github.com/unboxed/bops-terraform](https://github.com/unboxed/bops-terraform "smartCard-inline")
+[BOPS terraform](https://github.com/unboxed/bops-terraform "smartCard-inline")

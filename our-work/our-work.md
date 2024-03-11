@@ -7,4 +7,4 @@ permalink: /our-work/
 
 # Our work
 
-Applications we work on
+Here are some applications we work on:
