@@ -7,3 +7,5 @@ permalink: /developer-resources/
 ---
 
 # Developer resources
+
+Here are some developer resources you might find useful:

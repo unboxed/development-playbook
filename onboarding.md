@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Onboarding
+nav_order: 1
 permalink: /onboarding/
 ---
 

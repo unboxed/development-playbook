@@ -8,4 +8,4 @@ permalink: /getting-set-up
 
 # Getting set up
 
-The following is things you need to get set up on
+Here are some services and actions you will need to set up:
